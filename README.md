@@ -1,6 +1,6 @@
 # TB-DETR
 ## Title
-Compact Structural Feature Enhancement for Unsupervised Anomaly Detection in Chest Radiographs
+A Lightweight End-to-End Detector with Frequency-Enhanced Multiscale Fusion for Tuberculosis Bacilli
 ## Data
 The dataset used in the paper can be found here：
 
